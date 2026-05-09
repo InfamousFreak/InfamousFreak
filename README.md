@@ -5,7 +5,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Hi, hello, im smarak. I like coding, latest research and building useful stuff for MYSELF(people).</p>
+    <p>hello, im smarak. I like coding, latest research and building useful stuff for myself(people).</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
