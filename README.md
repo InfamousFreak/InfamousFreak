@@ -5,7 +5,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>Hi, I’m Smarak Choudhury, a sophomore at the National Institute of Technology, Durgapur. With an endless hunger for development, coding, and all things tech and driven by curiosity and a passion for learning, I’m always eager to delve into new challenges and expand my skill set.</p>
+    <p>Hi, hello, im smarak. I like coding, latest research and building useful stuff for MYSELF(people).</p>
 </div>
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
